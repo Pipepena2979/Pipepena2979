@@ -1,5 +1,5 @@
 # 💫 About Me:
-Mi nombre es Andrés Felipe Peña Castro, tengo 19 años, soy de Colombia, <br>soy analista desarrollador de software con un<br>historial probado de convertir ideas complejas en<br>soluciones técnicas efectivas. Me especializo en<br>el análisis de requerimientos, la creación de<br>arquitecturas robustas y la implementación de<br>software que cumple con los más altos<br>estándares de calidad. Mi enfoque se centra en la<br>resolución de problemas, la eficiencia y la<br>adaptabilidad para satisfacer las necesidades de<br>los clientes y los objetivos de negocio.<br>
+Mi nombre es Andrés Felipe Peña Castro, tengo 20 años, soy de Colombia, <br>soy analista desarrollador de software con un<br>historial probado de convertir ideas complejas en<br>soluciones técnicas efectivas. Me especializo en<br>el análisis de requerimientos, la creación de<br>arquitecturas robustas y la implementación de<br>software que cumple con los más altos<br>estándares de calidad. Mi enfoque se centra en la<br>resolución de problemas, la eficiencia y la<br>adaptabilidad para satisfacer las necesidades de<br>los clientes y los objetivos de negocio.<br>
 
 
 ## 🌐 Socials:
